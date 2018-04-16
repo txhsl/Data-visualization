@@ -1,0 +1,24 @@
+{
+    "nodes": [
+        {
+            "_id": "",
+            "id": "Dylan Bruno",
+            "name": "Dylan Bruno",
+            "group": 1
+        },
+        {
+            "_id": "",
+            "id": "B0010S6EOW",
+            "name": "Rides Season 4",
+            "group": 5
+        }
+    ],
+    "links": [
+        {
+            "_id": "",
+            "source": "Dylan Bruno",
+            "target": "B0010S6EOW",
+            "type": "act"
+        }
+    ]
+}
